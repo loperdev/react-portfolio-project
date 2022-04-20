@@ -65,7 +65,7 @@ h1 {
 
 section {
   margin-top: 8rem;
-  height: 100vh;
+  /* height: 100vh; */
 }
 /* Every section will have a direct child  */
 section > h2,
